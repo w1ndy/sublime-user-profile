@@ -4,8 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeREPL",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
