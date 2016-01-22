@@ -1,6 +1,8 @@
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -15,22 +17,28 @@
 		"env",
 		"env3"
 	],
-	"font_face": "PT Mono",
+	"font_face": "Anonymous Pro",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"no_bold"
 	],
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"soda_classic_tabs": true,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
