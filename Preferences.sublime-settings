@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -38,7 +38,7 @@
 	"line_padding_top": 4,
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,

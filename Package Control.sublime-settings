@@ -7,7 +7,9 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
-		"HTML Extended",
+		"ColorPicker",
+		"Git",
+		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"Material Theme",
 		"Package Control",
