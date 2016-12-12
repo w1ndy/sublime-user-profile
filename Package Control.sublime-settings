@@ -7,17 +7,24 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
+		"CMake",
 		"ColorPicker",
+		"Emmet",
+		"GBK Support",
 		"Git",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
-		"Material Theme",
+		"LaTeXTools",
+		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeREPL",
+		"SyncedSideBar",
 		"Theme - Soda",
-		"Tomorrow Color Schemes"
+		"Theme - Spaceblack",
+		"TypeScript"
 	]
 }
